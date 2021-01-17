@@ -11,7 +11,7 @@ The codes (implemented in R) are available in <br/><br/>
 The R package <b> GRPtests </b> can be installed through R:
 ```
 install.packages("GRPtests")
-library(GRPtests)
+library("GRPtests")
 ```
 
 A minimalistic example for testing goodness-of-fit in logistic regression:
