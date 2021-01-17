@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610039679888.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C0738DCF",
+    "lastKnownWriteTime" : 1581158925,
+    "last_content_update" : 1581158925,
+    "path" : "~/Documents/GitHub/GRPtests/Example_Section_4-4.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "109,0",
+        "scrollLine" : "94"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

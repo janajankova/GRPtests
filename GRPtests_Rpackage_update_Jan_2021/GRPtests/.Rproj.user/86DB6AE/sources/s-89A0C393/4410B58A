@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610037059851.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4410B58A",
+    "lastKnownWriteTime" : 1610037075,
+    "last_content_update" : 1610037075441,
+    "path" : "~/Documents/GitHub/GRPtests/Rpackage_update_Jan_2020/GRPtests/R/GRPgrouptest.R",
+    "project_path" : "R/GRPgrouptest.R",
+    "properties" : {
+        "cursorPosition" : "94,0",
+        "scrollLine" : "78"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
